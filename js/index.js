@@ -23,7 +23,7 @@ fly.src = "audio/fly.mp3";
 score_audio.src = "audio/score.mp3";
 music.src = "audio/music.mp3"
 
-let gap = 400;
+let gap = 430;
 
 // При нажатии на какую-либо кнопку
 document.addEventListener("keydown", moveUp);
